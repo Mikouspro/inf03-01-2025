@@ -1,2 +1,3 @@
-# stycze-2025
-Egzaminy inf03 styczeń 2025 i moje rozwiązania
+# styczeń-2025
+Są tu egzaminy ze stycznia 2025 roku
+Jest to moja interpretacja egzaminów i nie są one pisane na 100%
